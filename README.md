@@ -10,28 +10,28 @@ Company wants to automate the loan eligibility process (real time) based on cust
 
 ## Data
   ### Variable       Description
-  1. Loan_ID            Unique Loan ID,
+  1. Loan_ID           --- Unique Loan ID,
   
-  2. Gender             Male/ Female,
+  2. Gender            --- Male/ Female,
   
-  3. Married            Applicant married (Y/N),
+  3. Married           --- Applicant married (Y/N),
   
-  4. Dependents         Number of dependents,
+  4. Dependents        --- Number of dependents,
   
-  5. Education          Applicant Education (Graduate/ Under Graduate),
+  5. Education         --- Applicant Education (Graduate/ Under Graduate),
   
-  6. Self_Employed      Self employed (Y/N),
+  6. Self_Employed     ---  Self employed (Y/N),
   
-  7. ApplicantIncome    Applicant income,
+  7. ApplicantIncome   ---  Applicant income,
   
-  8. CoapplicantIncome  Coapplicant income,
+  8. CoapplicantIncome --- Coapplicant income,
   
-  9. LoanAmount         Loan amount in thousands,
+  9. LoanAmount        --- Loan amount in thousands,
   
-  10. Loan_Amount_Term   Term of loan in months,
+  10. Loan_Amount_Term ---  Term of loan in months,
   
-  11. Credit_History     Credit history meets guidelines,
+  11. Credit_History   ---  Credit history meets guidelines,
   
-  12. Property_Area      Urban/ Semi Urban/ Rural,
+  12. Property_Area    ---  Urban/ Semi Urban/ Rural,
   
-  13. Loan_Status        Loan approved (Y/N)
+  13. Loan_Status      ---  Loan approved (Y/N)
